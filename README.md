@@ -11,7 +11,7 @@ Para ejecutar el proyecto es necesaria la siguiente configuración:
 
 - Despues procedemos a descargar el chromedriver mas reciente de acuerdo a la versión de Google Chrome que tengamos.
 Para ello abrimos Google Chrome y en la opción y hacemos click en **Ayuda** y seleccionamos la opción **Información de Google Chrome**
-<img src="https://www.muycomputer.com/wp-content/uploads/2022/09/Comprobar-actualizaciones-de-Google-Chrome-en-Windows-y-macOS-1.png">
+<img src="https://www.muycomputer.com/wp-content/uploads/2022/09/Comprobar-actualizaciones-de-Google-Chrome-en-Windows-y-macOS-1.png" width="400">
 
 
 - Verificamos la versión de Google Chrome y procedemos a descargar el chrome driver que sea compatible con nuestra versión en
