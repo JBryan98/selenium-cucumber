@@ -96,7 +96,7 @@
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
                     <includes>
-                        <include>**/*runTest.java</include>
+                        <include>**/*RunTest.java</include>
                     </includes>
                 </configuration>
             </plugin>
